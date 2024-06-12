@@ -1,7 +1,7 @@
 ## Hey guys, whats up?! :v:
 
 - 👨‍💻 I'm currently at the end of the first semester of Systems Analysis and Development. :school:
-- :mortar_board: My first contact with programming was in CSS and Python. But my last college projects are with an emphasis on Java and SQL. 📖
+- :mortar_board: My first contact with programming was in CSS and Python. But my last college projects are with an emphasis on Java. 📖
 - :bar_chart: I am looking for an internship to apply and improve my skills in quantitative methods, object orientation and database. :bar_chart:
 
 ##
