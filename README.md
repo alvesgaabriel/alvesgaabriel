@@ -17,7 +17,5 @@
 
 ##
 
-<div> 
-![Snake animation](https://https://github.com/alvesgaabriel/alvesgaabriel/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
